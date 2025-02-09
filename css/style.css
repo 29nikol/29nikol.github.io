@@ -1,5 +1,5 @@
 h1{
-	color:CC8899;
+	color:cb416b;
 }
 .first{
 	width:103.5%;
@@ -8,5 +8,11 @@ h1{
 	width:103%;
 }
 .fourth{
-	width:150%;
+	width:140%;
+}
+div{
+	margin-bottom:5px;
+}
+p{
+	color:b55385;
 }
